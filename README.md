@@ -1,3 +1,5 @@
+# Seasons
+
 ## Description
 
 This is a basic project made with React that shows different message, layout and icon depending on the season (only summer or winter). The season is determined from the month and the hemisphere.
