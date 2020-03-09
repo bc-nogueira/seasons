@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a basic project made with React that shows different message, layout and icon depending on the season (only summer or winter). The season is determined from the month and the hemisphere.
+This is a basic project made with React for studying purposes. It shows different message, layout and icon depending on the season (only summer or winter). The season is determined from the month and the hemisphere.
 
 This app is shown in the course Modern React with Redux by Stephen Grinder at Udemy (https://www.udemy.com/course/react-redux/).
 
